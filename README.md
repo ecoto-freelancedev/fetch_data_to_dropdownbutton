@@ -2,6 +2,8 @@
 
 A example of how to fill a dropdownbutton from an api
 
+![](screen_capture.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
